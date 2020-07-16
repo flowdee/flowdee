@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+
+I'm Florian, a passionated web developer from Germany 🇩🇪
+
+Follow me on Twitter [@flowdee](https://twitter.com/flowdee) 🐦
 
 <!--
 **flowdee/flowdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
