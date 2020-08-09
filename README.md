@@ -1,6 +1,7 @@
-### Hey 👋
 
-I'm Florian, a passionated web developer from Germany 🇩🇪
+### Hey, I'm Florian 👋
+
+I'm a passionated web developer from Germany 🇩🇪 who loves to build software and online services. 💻
 
 Follow me on Twitter [@flowdee](https://twitter.com/flowdee) 🐦
 
